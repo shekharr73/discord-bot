@@ -5,8 +5,8 @@ dotenv.config();
 
 const commands = [
   {
-    name: "ping",
-    description: "Replies with Pong!"
+    name: "create",
+    description: "Creates a new short URL"
   }
 ];
 
